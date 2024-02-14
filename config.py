@@ -1,3 +1,0 @@
-api_key = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyNjVkYjViMC05Y2YxLTAxM2MtMDk0Ny01ZTgxOTdkNDFjNTYiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNzA2MTA1ODE0LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6InNtaWxlZ2F0ZS1jcm9zIn0.fQ2fxcsn85RHeeSeZ6BCv34n9OjAvnrqiNIgUPRsnJA"
-
-match_sample_url = 'https://api.pubg.com/shards/kakao/samples'
